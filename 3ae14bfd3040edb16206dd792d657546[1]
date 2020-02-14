@@ -43,7 +43,7 @@
   
   
 
-  <meta name="request-id" content="D945:1371:3832E:6AA84:5E46AA60" data-pjax-transient="true" /><meta name="html-safe-nonce" content="d3bb845098493a40efb2d800c8ad05ac66c15187" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkQ5NDU6MTM3MTozODMyRTo2QUE4NDo1RTQ2QUE2MCIsInZpc2l0b3JfaWQiOiI1MzQ2MTMyOTAwODY4MTcyMzg0IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="24e95a2a8258b243f2b8879e020e9bf68ad56a5c55599f54675d0f953a8b8242" data-pjax-transient="true" />
+  <meta name="request-id" content="D967:6596:4470E:7C238:5E46AAB2" data-pjax-transient="true" /><meta name="html-safe-nonce" content="70b4b62b74cbb7c759dd471bfb93d62d572cbbc2" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkQ5Njc6NjU5Njo0NDcwRTo3QzIzODo1RTQ2QUFCMiIsInZpc2l0b3JfaWQiOiI1MzQ2MTMyOTAwODY4MTcyMzg0IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="b370d8bce8f05e76d348f6aad94e6ee848cca7d6d0eb0770a71a33be99f28616" data-pjax-transient="true" />
 
 
 
@@ -416,14 +416,14 @@
       
   <div class="render-wrapper ">
     <div class="render-container is-render-pending js-render-target  "
-      data-identity="3213aa45-4e31-428a-9840-f3095adacd52"
+      data-identity="abc62d2b-32f2-47a4-a6a3-8ccb29d3dfa5"
       data-host="https://render.githubusercontent.com"
       data-type="ipynb">
       <img class="octospinner mx-auto" alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="64" height="64" />
       <div class="render-viewer-error">Sorry, something went wrong. <a href="https://gist.github.com/Yog999/3ae14bfd3040edb16206dd792d657546">Reload?</a></div>
       <div class="render-viewer-fatal">Sorry, we cannot display this file.</div>
       <div class="render-viewer-invalid">Sorry, this file is invalid so it cannot be displayed.</div>
-      <iframe class="render-viewer " src="https://render.githubusercontent.com/view/ipynb?commit=702cf71e09d150e0b018c8fe140725a954857268&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f676973742f596f673939392f33616531346266643330343065646231363230366464373932643635373534362f7261772f373032636637316530396431353065306230313863386665313430373235613935343835373236382f43617073746f6e655f50726f6a6563745f5765656b312e6970796e62&amp;nwo=Yog999%2F3ae14bfd3040edb16206dd792d657546&amp;path=Capstone_Project_Week1.ipynb&amp;repository_id=101212265&amp;repository_type=Gist#3213aa45-4e31-428a-9840-f3095adacd52" sandbox="allow-scripts allow-same-origin allow-top-navigation" title="File display">
+      <iframe class="render-viewer " src="https://render.githubusercontent.com/view/ipynb?commit=702cf71e09d150e0b018c8fe140725a954857268&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f676973742f596f673939392f33616531346266643330343065646231363230366464373932643635373534362f7261772f373032636637316530396431353065306230313863386665313430373235613935343835373236382f43617073746f6e655f50726f6a6563745f5765656b312e6970796e62&amp;nwo=Yog999%2F3ae14bfd3040edb16206dd792d657546&amp;path=Capstone_Project_Week1.ipynb&amp;repository_id=101212265&amp;repository_type=Gist#abc62d2b-32f2-47a4-a6a3-8ccb29d3dfa5" sandbox="allow-scripts allow-same-origin allow-top-navigation" title="File display">
           Viewer requires iframe.
       </iframe>
     </div>
